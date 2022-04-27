@@ -2,29 +2,24 @@
 
 ## I make
 
-- Websites with **JavaScript**.
-- **Discord.js** applications.
-- Browser/Discord **games**.
-
-## I study
-
-Web development att Mittuniversitet in Sweden.
+- Games with **[Godot](https://github.com/godotengine/godot)**.
+- **[Discord.js](https://github.com/discordjs/discord.js/)** applications.
 
 ## I like
 
+- Making games.
 - Linux
-- Open-source anything
-- APIs.
+- Open-source.
+- Music.
 
 ## Future plans
 
-- I'm still studying. Going to finish that up.
-- Release the game that I'm working on.
-- Probably make some more Discord.js applications, promote them a bit.
-- Pick up some open-source projects to help out with.
-- Start a business.
+- Finishing game project.
+- Launch on steam.
+- Work towards starting a business.
 
 ## I plan to learn
 
-- React.
+- C#.
+- Python.
 - Go.
