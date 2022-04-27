@@ -5,7 +5,7 @@
 
 ## I like
 
-- Linux
+- **[Linux](https://github.com/torvalds/linux)**
 - Open-source.
 
 ## Future plans
