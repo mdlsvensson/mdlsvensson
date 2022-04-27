@@ -1,5 +1,3 @@
-# Hello. I make games.
-
 ## I make
 
 - Games with **[Godot](https://github.com/godotengine/godot)**.
