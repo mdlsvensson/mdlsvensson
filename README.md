@@ -5,7 +5,6 @@
 
 ## I like
 
-- Making games.
 - Linux
 - Open-source.
 - Music.
@@ -14,7 +13,8 @@
 
 - Finishing game project.
 - Launch on steam.
-- Work towards starting a business.
+- Continue to support with content.
+- Prototype new project/"find the fun".
 
 ## I plan to learn
 
