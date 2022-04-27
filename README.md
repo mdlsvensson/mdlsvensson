@@ -14,7 +14,7 @@
 - Finishing game project.
 - Launch on steam.
 - Continue to support with content.
-- Prototype new project/"find the fun".
+- Prototype new project ("find the fun").
 
 ## I plan to learn
 
