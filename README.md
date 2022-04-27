@@ -7,7 +7,6 @@
 
 - Linux
 - Open-source.
-- Music.
 
 ## Future plans
 
