@@ -6,5 +6,5 @@
 
 ## I like
 
-- **[Linux](https://github.com/torvalds/linux)**
+- **[Linux](https://github.com/torvalds/linux)**.
 - Open-source.
