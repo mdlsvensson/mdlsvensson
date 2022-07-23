@@ -1,6 +1,6 @@
 ## I make
 
-- Games with **[Godot](https://github.com/godotengine/godot)**.
+- **[Godot](https://github.com/godotengine/godot)** games.
 - **[Discord.js](https://github.com/discordjs/discord.js/)** applications.
 - **[Svelte](https://github.com/sveltejs/svelte)** applications.
 
