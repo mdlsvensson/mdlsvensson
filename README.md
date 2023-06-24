@@ -1,3 +1,1 @@
-## I make
-
-- **[Godot](https://github.com/godotengine/godot)** games.
+I make games with Godot, C# and Blender.
