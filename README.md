@@ -1,1 +1,2 @@
-Indie game developer from Stockholm. Working in C# with the [[Godot Engine]]
+Indie game developer from Stockholm. Working with C# and [Godot](https://github.com/godotengine/godot).
+
