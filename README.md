@@ -1,1 +1,1 @@
-I make games with Godot, C# and Blender.
+Indie game developer from Stockholm. Working in C# with the [[Godot Engine]]
